@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>4270F9AF-AB97-4C7C-91CF-F08F300AE3AE</string>
+	<key>IDESourceControlProjectName</key>
+	<string>UmerAsad</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>E02B5FA2F9E3BE119C173339260E4F4EDD4A1ABD</key>
+		<string>https://github.com/umer-sufyan/UmerAsad.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>UmerAsad.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>E02B5FA2F9E3BE119C173339260E4F4EDD4A1ABD</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/umer-sufyan/UmerAsad.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>E02B5FA2F9E3BE119C173339260E4F4EDD4A1ABD</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E02B5FA2F9E3BE119C173339260E4F4EDD4A1ABD</string>
+			<key>IDESourceControlWCCName</key>
+			<string>UmerAsad</string>
+		</dict>
+	</array>
+</dict>
+</plist>
